@@ -1,6 +1,5 @@
-# remote_theme: pages-themes/cayman@v0.2.0
-# remote_theme: pages-themes/slate@v0.2.0
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
+# remote_theme: pages-themes/tactile@v0.2.0
 # theme: jekyll-theme-minimal
 title: Lauren Carne
-description: Software engineer based in London 🇬🇧
+description: Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development.
