@@ -1,4 +1,4 @@
-<div id="socialMedia" align="center">
+<div id="socialMedia" >
 <a href="https://www.linkedin.com/in/lauren-carne-306a2a13/" target="_blank">
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/dc9b1c95-a8f9-4ba5-99b5-4176626f3dc4" width="60">
 </a>
