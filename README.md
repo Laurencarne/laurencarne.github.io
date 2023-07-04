@@ -25,16 +25,18 @@ Feel Good Socail Media - The app for the pics worth keeping.
 - Used Typescript to ensure we maintained strong types throughout.
 - Employed Zod to add schema validation.
 - Used Ava and Jest to write and run unit tests within the codebase.
-  **_Technologies used:_** React Native, Typescript, Reanimated, React Hative Gesture Handler, Moti, RxJS, NodeJs, Luxon, GraphQL, Zod, Ava, Jest.
-  <br><br>
+
+**_Technologies used:_** React Native, Typescript, Reanimated, React Hative Gesture Handler, Moti, RxJS, NodeJs, Luxon, GraphQL, Zod, Ava, Jest.
+<br><br>
 
 **Full Stack Software Engineer Student** @ [Flatiron School](https://flatironschool.com/) _(2019)_ <br>
 Leader in the bootcamp industry, providing immersive and accelerated market-driven education to help people change their lives.
 
 - Used Javascript and React to create interactive frontend UI within many projects while studying.
 - Gained a basic knowledge of SQL, Ruby and Ruby on Rails while building course projects.
-  **_Technologies used:_** Javascript, React, NodeJs, SQL, Ruby and Ruby on Rails.
-  <br><br>
+
+**_Technologies used:_** Javascript, React, NodeJs, SQL, Ruby and Ruby on Rails.
+<br><br>
 
 ## 👩‍💼 Prior Experience
 
