@@ -1,8 +1,6 @@
 <!-- _Software engineer based in London 🇬🇧_ <br> -->
 
-## Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development.
-
-<br>
+# Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development.
 
 [Email](mailto:laurencarne13@gmail.com) / [LinkedIn](https://www.linkedin.com/in/lauren-carne-306a2a13/) / [GitHub](https://github.com/laurencarne/)
 
