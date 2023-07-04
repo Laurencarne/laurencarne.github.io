@@ -1,5 +1,3 @@
-### Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development.
-
 <div id="socialMedia" align="center">
 <h3>Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development.</h3>
 <a href="https://www.linkedin.com/in/lauren-carne-306a2a13/" target="_blank">
@@ -10,7 +8,7 @@
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/b77d1fd4-0130-4bc2-9c8d-453df6b652dd" width="50">
 </a>
 
-<a href="mailto:laurencarne13@gmail.com">
+<a href="mailto:laurencarne13@gmail.com" target="_blank">
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/ee302739-e0b6-4683-83be-70527a4d69af" width="50">
 </a>
 </div>
