@@ -1,7 +1,5 @@
-### Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development
-
+<!-- ### Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development -->
 <div id="socialMedia" align="center">
-<!-- <h3>Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development.</h3> -->
 <a href="https://www.linkedin.com/in/lauren-carne-306a2a13/" target="_blank">
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/dc9b1c95-a8f9-4ba5-99b5-4176626f3dc4" width="50">
 </a>
@@ -38,7 +36,7 @@ Feel Good Socail Media - The app for the pics worth keeping.
 **_Technologies used:_** React Native, Typescript, Reanimated, React Hative Gesture Handler, Moti, RxJS, NodeJs, Luxon, GraphQL, Zod, Ava, Jest.
 <br><br>
 
-**Full Stack Software Engineer Student** @ [Flatiron School](https://flatironschool.com/) _(2019)_ <br>
+**Full Stack Software Engineer Student** @ <a href="https://flatironschool.com" target="_blank">Flatiron School</a> _(2019)_ <br>
 Leader in the bootcamp industry, providing immersive and accelerated market-driven education to help people change their lives.
 
 - Used Javascript and React to create interactive frontend UI within many projects while studying.
