@@ -1,22 +1,24 @@
 <!-- ### Mobile UI engineer with 4 years React Native experience, looking for roles in mobile and web development -->
-<div id="socialMedia" align="center">
+
+<p>
 <a href="https://www.linkedin.com/in/lauren-carne-306a2a13/" target="_blank">
-<img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/dc9b1c95-a8f9-4ba5-99b5-4176626f3dc4" width="50">
+<img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/dc9b1c95-a8f9-4ba5-99b5-4176626f3dc4" width="60">
 </a>
+Linkedin
+</p>
   
 <a href="https://github.com/Laurencarne/Laurencarne/files/11949622/Lauren.Carne.Resume.Colour.pdf">
-<img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/b77d1fd4-0130-4bc2-9c8d-453df6b652dd" width="50">
+<img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/b77d1fd4-0130-4bc2-9c8d-453df6b652dd" width="60">
 </a>
 
 <a href="mailto:laurencarne13@gmail.com" target="_blank">
-<img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/ee302739-e0b6-4683-83be-70527a4d69af" width="50">
+<img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/ee302739-e0b6-4683-83be-70527a4d69af" width="60">
 </a>
-</div>
 
 ## 👩🏼‍💻 Engineering Experience
 
 **Software Engineer** @ [Picnic](https://picnic.photos/) _(Sep 2019 - June 2023)_ <br>
-Feel Good Socail Media - The app for the pics worth keeping.
+Feel Good Social Media - The app for the pics worth keeping.
 
 - The first full time employee and first engineering hire.
 - Worked directly with the co-founders to design and implement two separate mobile applications using Figma and React Native.
