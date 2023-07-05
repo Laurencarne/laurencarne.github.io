@@ -3,6 +3,10 @@
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/dc9b1c95-a8f9-4ba5-99b5-4176626f3dc4" width="60">
 </a>
 
+<a href="https://github.com/Laurencarne" target="_blank">
+<img src="https://github.com/Laurencarne/laurencarne.github.io/assets/43895098/0fc5a388-5b8f-4bfd-83a1-f2444ca1d06b" width="60">
+</a>
+
 <a href="https://github.com/Laurencarne/Laurencarne/files/11949622/Lauren.Carne.Resume.Colour.pdf">
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/b77d1fd4-0130-4bc2-9c8d-453df6b652dd" width="60">
 </a>
