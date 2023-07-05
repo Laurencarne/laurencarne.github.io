@@ -36,7 +36,7 @@ Feel Good Social Media - The app for the pics worth keeping.
 - Employed **Zod** to add schema validation.
 - Used **Ava** and **Jest** to write and run unit tests within the codebase.
 
-**_Technologies used:_** React Native, Typescript, Reanimated, React Hative Gesture Handler, Moti, RxJS, NodeJs, Luxon, GraphQL, Zod, Ava, Jest.
+**_Technologies used:_** React Native, Typescript, Reanimated, React Native Gesture Handler, Moti, RxJS, NodeJs, Luxon, GraphQL, Zod, Ava, Jest.
 <br><br>
 
 **Full Stack Software Engineer Student** @ <a href="https://flatironschool.com" target="_blank">Flatiron School</a> _(2019)_ <br>
@@ -76,7 +76,19 @@ Leading Independent supplier of sustainable technology.
 <a href="https://www.essex.ac.uk/" target="_blank">Essex University</a> - Colechester, Essex, England _(2008 - 2011)_
 <br><br>
 
-## 💬 Languages
-
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 **English**: Native <br>
+## ⚒️ Tools and Languages
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 width=40/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height=40 width=40 />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height=40 width=40 />&nbsp;
+</div>
 <br><br>
