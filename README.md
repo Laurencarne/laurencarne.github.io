@@ -7,7 +7,7 @@
 <img src="https://github.com/Laurencarne/laurencarne.github.io/assets/43895098/0fc5a388-5b8f-4bfd-83a1-f2444ca1d06b" width="60">
 </a>
 
-<a href="https://github.com/Laurencarne/Laurencarne/files/11958850/Tech.CV.pdf">
+<a href="https://github.com/Laurencarne/Laurencarne/files/12001265/Lauren.Carne.CV.pdf">
 <img src="https://github.com/Laurencarne/Laurencarne/assets/43895098/b77d1fd4-0130-4bc2-9c8d-453df6b652dd" width="60">
 </a>
 
@@ -21,20 +21,19 @@
 **Software Engineer** @ <a href="https://picnic.photos/" target="_blank">Picnic</a> _(Sep 2019 - June 2023)_ <br>
 Feel Good Social Media - The app for the pics worth keeping.
 
-- The first full time employee and first engineering hire.
-- Worked directly with the co-founders to design and implement two separate mobile applications using **Figma** and **React Native**.
+- First full-time engineer, working with the founders on the design and prototype of two new mobile apps, leveraging **Figma** and **React Native**.
 - Implemented designs on both **iOS** and **Android** finding solutions to the differences that arise with cross platform development.
-- Used React **Native Gesture Handler**, **Reanimated** and **Moti** to implement complex UI animations and interactions.
-- Received one-to-one mentorship throughout to gain new skills and sharpen existing ones.
+- Implemented and maintained updates to the design system. 
+- Used **React Native Gesture Handler**, **Reanimated** and **Moti** to implement complex UI animations and interactions. 
+- Worked cohesively as part of a team actively participating in daily stand ups.
+- Utilised **Typescript**, leveraging its type safety and enhanced tooling to deliver high-quality maintainable code.  
 - Progressed from Junior Dev to a confident and proficient software engineer.
 - Participated in multiple workshops led by industry professionals on languages and libraries such as **RxJS**, **NodeJs** and **Reanimated**.
-- Implemented and maintained updates to the design system.
 - Utilised **Luxon** for parsing and validating dates and times allowing for consistency throughout the app.
 - Handled app state using **RxJS** enabling us to create pure stateless views.
 - Worked with **GraphQL** to effectively handle data retrieval and manipulation.
-- Used **Typescript** to ensure we maintained strong types throughout.
-- Employed **Zod** to add schema validation.
 - Used **Ava** and **Jest** to write and run unit tests within the codebase.
+
 
 **_Technologies used:_** React Native, Typescript, Reanimated, React Native Gesture Handler, Moti, RxJS, NodeJs, Luxon, GraphQL, Zod, Ava, Jest.
 <br><br>
